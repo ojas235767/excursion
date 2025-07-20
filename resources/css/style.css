@@ -2,12 +2,37 @@ body {
     background-color: black;
     color: white;
     text-align: center;
-    font-size: 50px;
-    font-family: verdana;
-    font-weight: normal;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: verdana;
+  font-weight: normal;
 }
 
 .excursion {
     color: aquamarine;
     font-size: 16px;
+}
+
+p{
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+h2 {
+  font-size: 42px;
+  font-family: verdana;
+  font-weight: 300;
+}
+
+h4 {
+    text-align: right;
+    font-family: verdana;
+    color: gray;
+}
+
+img{
+    padding: 10px
 }
