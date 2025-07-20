@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: verdana;
+    font-weight: normal;
+}
+
+.excursion {
+    color: aquamarine;
+    font-size: 16px;
+}
